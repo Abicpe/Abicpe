@@ -1,4 +1,5 @@
  Hey, I'm [Abraham Gayle A. Hinanay]!
+ 
  I'm a first-year Computer Engineering student who enjoys learning programming and developing useful applications.
 
  I'm currently improving my skills in C++ programming and software development.
@@ -32,6 +33,7 @@ View Repository
 ---
 
  Connect With Me
+ 
 GitHub
 
 ---
