@@ -1,4 +1,4 @@
- Hey, I'm [Abraham Gayle A. Hinanay]!
+👋 Hey, I'm Abraham Gayle A. Hinanay!
  
  I'm a first-year Computer Engineering student who enjoys learning programming and developing useful applications.
 
