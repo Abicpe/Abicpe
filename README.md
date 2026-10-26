@@ -1,4 +1,4 @@
-👋 Hey, I'm Abraham Gayle A. Hinanay!
+👋  Hey, I'm Abraham Gayle A. Hinanay
  
  I'm a first-year Computer Engineering student who enjoys learning programming and developing useful applications.
 
@@ -7,11 +7,12 @@
 ---
 
  About Me
- Studying BS Computer Engineering
- Currently learning C++ and programming fundamentals
- Interested in software and hardware development
- Working on academic programming projects
- Goal: Improve my coding and problem-solving skills
+ 
+ - Studying BS Computer Engineering
+ - Currently learning C++ and programming fundamentals
+ - Interested in software and hardware development
+ - Working on academic programming projects
+ - Goal: Improve my coding and problem-solving skills
 
 ---
 
